@@ -1,0 +1,4 @@
+vboxmanage list vms
+vboxmanage list runningvms
+vboxmanage startvm VM2
+vboxmanage controlvm VM1 poweroff
